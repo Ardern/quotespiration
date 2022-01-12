@@ -1,20 +1,21 @@
 # Pizza-Mate
 
-This is a project developed as an Independent Project per the requirements if the PREP stage of the Moringa School Software Program.
+This is a project developed as an Independent Project per the requirements if the CORE stage of the Moringa School Software Program.
 
 ### Author Name
-Sam Nyang'u Momanyi Ardern
+Nyang'u Samuel Momanyi Ardern"
 
 ### Deploy Live link on GitHub Pages
-[View here]https://ardern.github.io/Pizza-Mate/
+[View here]https://ardern.github.io/quotespiration/
 ## Project objectives
 The project covers the following areas of Web and Software Development:
 Understanding the overal structure of web pages
 Using HTML Tags
 Creating classes and IDs
 Styling web pages using CSS
-Linking HTML anD css files
+Linking HTML and css files
 Using JaVascript to implement functions and page interactivity
+Using Angular
 
 ## Technologies Used
 HTML
@@ -22,6 +23,7 @@ CSS
 BootStrap
 Javascript
 JQuery
+Angular
 ### Requirements for Deployment
 ​
 * A computer device
@@ -32,7 +34,7 @@ JQuery
 ### Known Bugs
 The application has no known bugs. Any emerging bugs will be eliminated during the iteration process
 ## Authors Info
-Name: Sam Nyang'u Momanyi Ardern
+Name: Nyang'u Samuel Momanyi Ardern
 Github username @Ardern
 
 ## MIT License
